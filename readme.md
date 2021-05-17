@@ -4,10 +4,14 @@ CodeRoom is a project aimed at improving the learning experience for new develop
 
 Supporting five languages (C, C++, Java, JavaScript, and Python), CodeRoom allows teachers to create a coding challenge, then generate links to separate rooms containing their challenge in an IDE with a compiler. There, students can collaborate as a team in real-time to solve, test, and compile their code before submitting it to their teacher for review.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Click [here](https://www.youtube.com/watch?v=p2ZSzNWRrWQ&t=150s) to view the live presentation of Code Room from its creators.  
+
+Use Code Room for free at [coderoom.us](https://coderoom.us/)
 
 ## Technologies Used
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+#### Frontend
 - [React](https://reactjs.org/)
   - [React-Router](https://reactrouter.com/)
   - [Material-UI](https://material-ui.com/)
@@ -15,10 +19,19 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [Moment](https://momentjs.com/)
 - [Axios](https://github.com/axios/axios)
 - [Firepad](https://firepad.io/)
-- [Firebase](https://firebase.google.com/)
 - [CodeMirror](https://codemirror.net/)
 - [Judge0](https://judge0.com/)
 - [uuidv4](https://www.npmjs.com/package/uuidv4)
+
+
+#### Backend
+- [Django REST Framework](https://www.django-rest-framework.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [JSON Web Tokens](https://jwt.io/)
+- [Firebase](https://firebase.google.com/)
+
+
+#### Deployment
 - [Docker](https://www.docker.com/get-started)
 - [Google Compute Engine](https://cloud.google.com/compute)
 
