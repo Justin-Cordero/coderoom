@@ -8,6 +8,8 @@ Click [here](https://www.youtube.com/watch?v=p2ZSzNWRrWQ&t=150s) to view the liv
 
 Use Code Room for free at [coderoom.us](https://coderoom.us/)
 
+![Demo](https://github.com/Justin-Cordero/coderoom-preview/blob/main/img/bg-img/coderoom-live.png?raw=true)
+
 ## Technologies Used
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
